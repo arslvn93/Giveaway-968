@@ -27,7 +27,7 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "#d32f2f",
     "secondaryColorOverride": "#fbc02d",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/CVLYBNRm65xkdYXWeFCq/webhook-trigger/lMrPbecEwZmCztDX9DRM",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
@@ -146,90 +146,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757962725164_0",
-      "questionText": "When planning a special night out, which type of dining experience do you prefer?",
+      "id": "q_auto_1757962931859_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "Fine dining",
-          "text": "Fine dining"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Casual eateries",
-          "text": "Casual eateries"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Interactive cooking classes",
-          "text": "Interactive cooking classes"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "Ordering in and dining at home",
-          "text": "Ordering in and dining at home"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1757962725164_1",
-      "questionText": "How do you typically use the main living space in your home?",
+      "id": "q_auto_1757962931859_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "For hosting gatherings and events",
-          "text": "For hosting gatherings and events"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "As a relaxing retreat after work",
-          "text": "As a relaxing retreat after work"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
-          "value": "A versatile space for a mix of activities",
-          "text": "A versatile space for a mix of activities"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "Primarily for personal downtime",
-          "text": "Primarily for personal downtime"
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1757962725164_2",
-      "questionText": "Which type of travel experience appeals to you the most for your future trips?",
+      "id": "q_auto_1757962931859_2",
+      "questionText": "What’s your current housing situation?",
       "options": [
         {
-          "value": "European cultural explorations",
-          "text": "European cultural explorations"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "Adventure and nature retreats",
-          "text": "Adventure and nature retreats"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Relaxing beach vacations",
-          "text": "Relaxing beach vacations"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "Food and wine tours",
-          "text": "Food and wine tours"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1757962725164_3",
-      "questionText": "Your ideal weekend is spent...",
-      "options": [
-        {
-          "value": "Exploring new cooking or art classes",
-          "text": "Exploring new cooking or art classes"
-        },
-        {
-          "value": "Attending social gatherings with friends and family",
-          "text": "Attending social gatherings with friends and family"
-        },
-        {
-          "value": "Enjoying a quiet weekend at home",
-          "text": "Enjoying a quiet weekend at home"
-        },
-        {
-          "value": "Engaging in outdoor recreational activities",
-          "text": "Engaging in outdoor recreational activities"
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
@@ -258,8 +236,8 @@ const config = {
       "email": "daaron@property.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Daaron Johnston, Sales Representative, Property.Ca. This contest is not affiliated with Eataly. Winner will be randomly selected from all entries received by October 20, 2025. Must be 18+ and live in the GTA to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
+    "organizerLogoUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/5LwEgxAcQN6CdYWQXNYq/media/afffa9f4-9be1-48b2-857d-0907f64d2e97.png",
+    "secondaryLogoUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/5LwEgxAcQN6CdYWQXNYq/media/6813d66601c78bf3c795155b.png",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
     "organizerName": "Daaron Johnston",
     "brokerageName": "Property.Ca",
@@ -273,6 +251,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-968",
     "netlifyUrl": "http://Giveaway-968.netlify.app",
     "netlifyId": "1057456361",
-    "tag": "Pizza Class Giveaway"
+    "tag": "Italian Escape Giveaway"
   }
 };
