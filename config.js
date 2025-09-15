@@ -1,32 +1,32 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
+    "pageTitle": "Win a Free Pizza-Making Class at Eataly Toronto ($285 Value!)",
+    "navBrandLogoText": "Daaron Johnston",
     "privacyPolicyLink": "https://property.ca/privacy"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>Free Italian Pizza-Making Class</span> for Two at Eataly Toronto!",
+    "heroSubheadline": "Bring a slice of Italy into your life! Make delicious pizza with your favorite person, right in Toronto. Limited-time giveaway, perfect for couples, friends, and families who want a taste of Europe—no flight needed!",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/639wmrz9t1rm80cs9tsa65mfrw.jpg",
+    "promotionDates": "Enter between September 16 and October 20, 2025. Winner drawn November 1, 2025.",
+    "endDate": "2025-10-21T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter My Name Now!",
+    "name": "Eataly Pizza Class Giveaway",
+    "successModalHeaderText": "You're in the Draw!",
+    "successModalMainMessage": "Your entry for the <strong>Free Eataly Pizza-Making Experience</strong> is complete. We’ll announce the lucky winner on November 1, 2025—watch your email for updates. Good luck!",
+    "successModalEmailPrompt": "Watch your email and stay tuned for the winner announcement on November 1, 2025!"
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
-      "#FFFFFF"
+      "#d32f2f",
+      "#c62828",
+      "#fbc02d"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "#d32f2f",
+    "secondaryColorOverride": "#fbc02d",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
@@ -35,234 +35,213 @@ const config = {
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You're in the Draw!",
+    "mainMessage": "Your entry for the <strong>Free Eataly Pizza-Making Experience</strong> is complete. We’ll announce the lucky winner on November 1, 2025—watch your email for updates. Good luck!",
+    "socialPromptText": "Share with your friends and double the fun—who would you choose to make pizza with?"
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/saf53saaqhrm80cs9tss1de8tw.jpg",
+        "alt": "Two people enjoying a pizza-making class at Eataly Toronto"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/5keennne1srm80cs9tsvf1ak0g.jpg",
+        "alt": "Fresh pizza dough being stretched by hand"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/6b22e78k1hrma0cs9tt9tb48hc.jpg",
+        "alt": "Glasses of wine and pizza on a table"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/ft8fhs3n9srmc0cs9ttafq4qp8.jpg",
+        "alt": "Family and friends laughing as they make pizza together"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-users",
+        "text": "Class for two—bring a partner, friend, or family member"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-pizza-slice",
+        "text": "Hands-on pizza-making with expert chefs"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-wine-glass",
+        "text": "Enjoy a glass of wine during your class"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-utensils",
+        "text": "Eat your own delicious pizza at the end"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-heart",
+        "text": "Perfect for making memories together"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Authentic Italian Pizza-Making Experience for Two",
+    "value": "$285 Value",
+    "description": "Missed your dream trip to Europe? This is your chance to dive hands-first into a true Italian pizza lesson at Eataly in Toronto! Learn the secrets of real Italian pizza from expert chefs. Enjoy wine, laughter, and unforgettable moments with someone special. Feel like you're in Italy—no passport needed.",
+    "limitedTimeOfferText": "Limited Entries. Ends Soon!",
+    "ctaButtonText": "I Want My Pizza Night!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
         "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "description": "It just takes a minute! Add your name and email below to join."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-heart",
+        "title": "Tell Us About You",
+        "description": "Answer a few fun, easy questions to help us get to know you."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "That’s It—You’re Entered!",
+        "description": "Watch your inbox—we’ll announce the winner after the draw."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "Entry takes less than 1 minute"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Completely free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-user-friends",
+        "text": "Great for couples, friends, or family"
       },
       {
         "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "text": "Experience true Italian cooking in Toronto"
+      },
+      {
+        "icon": "fas fa-utensils",
+        "text": "Eat and learn in the same night"
       }
-    ]
-  },
-  "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
+    ],
+    "fairSelectionInfo": {
+      "title": "Winner Is Randomly Chosen",
+      "text": "We pick a winner at random from all entries to keep things fair. Everyone gets an equal chance to win this pizza night!"
+    },
+    "importantNotice": {
+      "title": "Check Your Email For Results!",
+      "text": "The winner will be contacted by email on November 1, 2025. Be sure to check your inbox!"
+    },
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Anyone 18 years or older who lives in the Greater Toronto Area can enter. Perfect for anyone who wants a night of great food and fun!"
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "What if I’ve never made pizza before?",
+        "a": "No problem! This class is for everyone, whatever your skill level. You’ll learn and have fun."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Can I bring my child?",
+        "a": "The prize is for two people. One must be 18+ and both must be able to join a class at Eataly in Toronto."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "How will I know if I won?",
+        "a": "We’ll contact the winner directly by email. We’ll also post the winner on our social media for everyone to see!"
+      },
+      {
+        "q": "Is there any cost to enter or claim the prize?",
+        "a": "No! Entry is free. The pizza class and wine are fully taken care of."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
-    ],
-    "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
-    },
-    "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
-    }
+      "Use your best contact email so we can reach you",
+      "Follow Daaron Johnston on Instagram for updates and winner announcements",
+      "Tell your partner, friend, or family who you’d bring along!",
+      "Share the giveaway after entering to help friends join the fun"
+    ]
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FGiveaway-968.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-968.netlify.app&text=Win%20a%20Free%20Italian%20Pizza-Making%20Class%20at%20Eataly%20Toronto!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your info below for a chance at this hands-on pizza experience for two!",
+    "entryCountText": "Many have already entered—don't miss your chance!",
+    "socialSharePrompt": "Share this prize with a friend or family member you'd love to make pizza with!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1057456361_0",
+      "questionText": "When planning a special night out, which type of dining experience do you prefer?",
       "options": [
-        {
-          "value": "The location",
-          "text": "The location"
-        },
-        {
-          "value": "The layout",
-          "text": "The layout"
-        },
-        {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
-        },
-        {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
-        }
+        { "value": "Fine dining", "text": "Fine dining" },
+        { "value": "Casual eateries", "text": "Casual eateries" },
+        { "value": "Interactive cooking classes", "text": "Interactive cooking classes" },
+        { "value": "Ordering in and dining at home", "text": "Ordering in and dining at home" }
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1057456361_1",
+      "questionText": "How do you typically use the main living space in your home?",
       "options": [
-        {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
-        },
-        {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
-        },
-        {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
-        },
-        {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
-        }
+        { "value": "For hosting gatherings and events", "text": "For hosting gatherings and events" },
+        { "value": "As a relaxing retreat after work", "text": "As a relaxing retreat after work" },
+        { "value": "A versatile space for a mix of activities", "text": "A versatile space for a mix of activities" },
+        { "value": "Primarily for personal downtime", "text": "Primarily for personal downtime" }
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1057456361_2",
+      "questionText": "Which type of travel experience appeals to you the most for your future trips?",
       "options": [
-        {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
-        },
-        {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
-        },
-        {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
-        },
-        {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
-        }
+        { "value": "European cultural explorations", "text": "European cultural explorations" },
+        { "value": "Adventure and nature retreats", "text": "Adventure and nature retreats" },
+        { "value": "Relaxing beach vacations", "text": "Relaxing beach vacations" },
+        { "value": "Food and wine tours", "text": "Food and wine tours" }
+      ]
+    },
+    {
+      "id": "q_auto_1057456361_3",
+      "questionText": "Your ideal weekend is spent...",
+      "options": [
+        { "value": "Exploring new cooking or art classes", "text": "Exploring new cooking or art classes" },
+        { "value": "Attending social gatherings with friends and family", "text": "Attending social gatherings with friends and family" },
+        { "value": "Enjoying a quiet weekend at home", "text": "Enjoying a quiet weekend at home" },
+        { "value": "Engaging in outdoor recreational activities", "text": "Engaging in outdoor recreational activities" }
       ]
     }
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/people/Daaron-Johnston/100066548707831/",
+      "instagram": "https://www.instagram.com/daaronjohnston/"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Daaron Johnston",
+      "title": "Broker, Sales Representative",
+      "phone": "(647) 409-6568",
+      "email": "daaron@property.ca",
+      "headshotUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/cbf16da1-696f-45a5-8037-4a0f6d74fca9/daaron_headhsot_v2.jpg"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is sponsored by Daaron Johnston, Sales Representative, Property.Ca. This contest is not affiliated with Eataly. Winner will be randomly selected from all entries received by October 20, 2025. Must be 18+ and live in the GTA to enter.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
+    "organizerName": "Daaron Johnston",
     "brokerageName": "Property.Ca",
     "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
+    "email": "daaron@property.ca",
+    "phone": "(647) 409-6568",
     "copyrightOwner": "Property.Ca"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
-    "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "repoName": "Giveaway-968",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-968",
+    "netlifyUrl": "http://Giveaway-968.netlify.app",
+    "netlifyId": "1057456361",
+    "tag": "Pizza Class Giveaway"
   }
 };
