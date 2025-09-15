@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Free Italian Pizza-Making Class</span> for Two at Eataly Toronto!",
-    "heroSubheadline": "Bring a slice of Italy into your life! Make delicious pizza with your favorite person, right in Toronto. Limited-time giveaway, perfect for couples, friends, and families who want a taste of Europe—no flight needed!",
+    "heroSubheadline": "Bring a slice of Italy into your life! Make delicious pizza with your favorite person, right in Toronto. Limited-time giveaway, perfect for couples, friends, and families who want a taste of Europe - no flight needed!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/639wmrz9t1rm80cs9tsa65mfrw.jpg",
     "promotionDates": "Enter between September 16 and October 20, 2025. Winner drawn November 1, 2025.",
     "endDate": "2025-10-21T03:59:00.000Z",
@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "#d32f2f",
     "secondaryColorOverride": "#fbc02d",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're in the Draw!",
-    "mainMessage": "Your entry for the <strong>Free Eataly Pizza-Making Experience</strong> is complete. We’ll announce the lucky winner on November 1, 2025—watch your email for updates. Good luck!",
-    "socialPromptText": "Share with your friends and double the fun—who would you choose to make pizza with?"
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -125,43 +119,21 @@ const config = {
         "icon": "fas fa-utensils",
         "text": "Eat and learn in the same night"
       }
-    ],
+    ]
+  },
+  "rules": {
+    "faq": [],
+    "tips": [],
+    "finePrintText": "",
+    "showTipsSection": false,
     "fairSelectionInfo": {
-      "title": "Winner Is Randomly Chosen",
-      "text": "We pick a winner at random from all entries to keep things fair. Everyone gets an equal chance to win this pizza night!"
+      "title": "",
+      "text": ""
     },
     "importantNotice": {
-      "title": "Check Your Email For Results!",
-      "text": "The winner will be contacted by email on November 1, 2025. Be sure to check your inbox!"
-    },
-    "faq": [
-      {
-        "q": "Who can enter?",
-        "a": "Anyone 18 years or older who lives in the Greater Toronto Area can enter. Perfect for anyone who wants a night of great food and fun!"
-      },
-      {
-        "q": "What if I’ve never made pizza before?",
-        "a": "No problem! This class is for everyone, whatever your skill level. You’ll learn and have fun."
-      },
-      {
-        "q": "Can I bring my child?",
-        "a": "The prize is for two people. One must be 18+ and both must be able to join a class at Eataly in Toronto."
-      },
-      {
-        "q": "How will I know if I won?",
-        "a": "We’ll contact the winner directly by email. We’ll also post the winner on our social media for everyone to see!"
-      },
-      {
-        "q": "Is there any cost to enter or claim the prize?",
-        "a": "No! Entry is free. The pizza class and wine are fully taken care of."
-      }
-    ],
-    "tips": [
-      "Use your best contact email so we can reach you",
-      "Follow Daaron Johnston on Instagram for updates and winner announcements",
-      "Tell your partner, friend, or family who you’d bring along!",
-      "Share the giveaway after entering to help friends join the fun"
-    ]
+      "title": "",
+      "text": ""
+    }
   },
   "entryForm": {
     "sharePlatforms": {
@@ -174,46 +146,106 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1057456361_0",
+      "id": "q_auto_1757962725164_0",
       "questionText": "When planning a special night out, which type of dining experience do you prefer?",
       "options": [
-        { "value": "Fine dining", "text": "Fine dining" },
-        { "value": "Casual eateries", "text": "Casual eateries" },
-        { "value": "Interactive cooking classes", "text": "Interactive cooking classes" },
-        { "value": "Ordering in and dining at home", "text": "Ordering in and dining at home" }
+        {
+          "value": "Fine dining",
+          "text": "Fine dining"
+        },
+        {
+          "value": "Casual eateries",
+          "text": "Casual eateries"
+        },
+        {
+          "value": "Interactive cooking classes",
+          "text": "Interactive cooking classes"
+        },
+        {
+          "value": "Ordering in and dining at home",
+          "text": "Ordering in and dining at home"
+        }
       ]
     },
     {
-      "id": "q_auto_1057456361_1",
+      "id": "q_auto_1757962725164_1",
       "questionText": "How do you typically use the main living space in your home?",
       "options": [
-        { "value": "For hosting gatherings and events", "text": "For hosting gatherings and events" },
-        { "value": "As a relaxing retreat after work", "text": "As a relaxing retreat after work" },
-        { "value": "A versatile space for a mix of activities", "text": "A versatile space for a mix of activities" },
-        { "value": "Primarily for personal downtime", "text": "Primarily for personal downtime" }
+        {
+          "value": "For hosting gatherings and events",
+          "text": "For hosting gatherings and events"
+        },
+        {
+          "value": "As a relaxing retreat after work",
+          "text": "As a relaxing retreat after work"
+        },
+        {
+          "value": "A versatile space for a mix of activities",
+          "text": "A versatile space for a mix of activities"
+        },
+        {
+          "value": "Primarily for personal downtime",
+          "text": "Primarily for personal downtime"
+        }
       ]
     },
     {
-      "id": "q_auto_1057456361_2",
+      "id": "q_auto_1757962725164_2",
       "questionText": "Which type of travel experience appeals to you the most for your future trips?",
       "options": [
-        { "value": "European cultural explorations", "text": "European cultural explorations" },
-        { "value": "Adventure and nature retreats", "text": "Adventure and nature retreats" },
-        { "value": "Relaxing beach vacations", "text": "Relaxing beach vacations" },
-        { "value": "Food and wine tours", "text": "Food and wine tours" }
+        {
+          "value": "European cultural explorations",
+          "text": "European cultural explorations"
+        },
+        {
+          "value": "Adventure and nature retreats",
+          "text": "Adventure and nature retreats"
+        },
+        {
+          "value": "Relaxing beach vacations",
+          "text": "Relaxing beach vacations"
+        },
+        {
+          "value": "Food and wine tours",
+          "text": "Food and wine tours"
+        }
       ]
     },
     {
-      "id": "q_auto_1057456361_3",
+      "id": "q_auto_1757962725164_3",
       "questionText": "Your ideal weekend is spent...",
       "options": [
-        { "value": "Exploring new cooking or art classes", "text": "Exploring new cooking or art classes" },
-        { "value": "Attending social gatherings with friends and family", "text": "Attending social gatherings with friends and family" },
-        { "value": "Enjoying a quiet weekend at home", "text": "Enjoying a quiet weekend at home" },
-        { "value": "Engaging in outdoor recreational activities", "text": "Engaging in outdoor recreational activities" }
+        {
+          "value": "Exploring new cooking or art classes",
+          "text": "Exploring new cooking or art classes"
+        },
+        {
+          "value": "Attending social gatherings with friends and family",
+          "text": "Attending social gatherings with friends and family"
+        },
+        {
+          "value": "Enjoying a quiet weekend at home",
+          "text": "Enjoying a quiet weekend at home"
+        },
+        {
+          "value": "Engaging in outdoor recreational activities",
+          "text": "Engaging in outdoor recreational activities"
+        }
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're in the Draw!",
+    "mainMessage": "Your entry for the <strong>Free Eataly Pizza-Making Experience</strong> is complete. We’ll announce the lucky winner on November 1, 2025—watch your email for updates. Good luck!",
+    "socialPromptText": "Share with your friends and double the fun—who would you choose to make pizza with?"
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/people/Daaron-Johnston/100066548707831/",
@@ -223,8 +255,7 @@ const config = {
       "name": "Daaron Johnston",
       "title": "Broker, Sales Representative",
       "phone": "(647) 409-6568",
-      "email": "daaron@property.ca",
-      "headshotUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/cbf16da1-696f-45a5-8037-4a0f6d74fca9/daaron_headhsot_v2.jpg"
+      "email": "daaron@property.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Daaron Johnston, Sales Representative, Property.Ca. This contest is not affiliated with Eataly. Winner will be randomly selected from all entries received by October 20, 2025. Must be 18+ and live in the GTA to enter.",
     "organizerLogoUrl": "",
