@@ -55,7 +55,7 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-users",
-        "text": "Class for two—bring a partner, friend, or family member"
+        "text": "Class for two - bring a partner, friend, or family member"
       },
       {
         "icon": "fas fa-pizza-slice",
@@ -146,7 +146,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757962931859_0",
+      "id": "q_auto_1757964498641_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -168,7 +168,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757962931859_1",
+      "id": "q_auto_1757964498641_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757962931859_2",
+      "id": "q_auto_1757964498642_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
