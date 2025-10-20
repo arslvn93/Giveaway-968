@@ -31,7 +31,8 @@ const config = {
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
+    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs"
   },
   "prize": {
     "images": [
