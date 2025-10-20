@@ -32,7 +32,7 @@ const config = {
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs"
+    "turnstileSiteKey": "0x4AAAAAAB7r1m-A50Awaaos"
   },
   "prize": {
     "images": [
