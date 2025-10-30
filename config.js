@@ -9,7 +9,7 @@ const config = {
     "heroSubheadline": "Bring a slice of Italy into your life! Make delicious pizza with your favorite person, right in Toronto. Limited-time giveaway, perfect for couples, friends, and families who want a taste of Europe - no flight needed!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/639wmrz9t1rm80cs9tsa65mfrw.jpg",
     "promotionDates": "Enter between September 16 and October 20, 2025. Winner drawn November 1, 2025.",
-    "endDate": "2025-10-21T03:59:00.000Z",
+    "endDate": "2025-11-02T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Eataly Pizza Class Giveaway",
@@ -31,8 +31,7 @@ const config = {
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB7r1m-A50Awaaos"
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -147,7 +146,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1761794463500_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -169,7 +168,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1761794463500_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -191,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1761794463500_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
